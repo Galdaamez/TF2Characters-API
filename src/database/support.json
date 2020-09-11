@@ -1,0 +1,34 @@
+[{
+    "id": "7",
+    "name": "Spy",
+    "description": "He is a tricky guy. It’s quite difficult to play as the Spy and it’s really hard to deal with such an opponent. He collects valuable information for his team by sneaking behind the enemy’s back. Of course, the Spy can hit that back really hard and make the offensive task much easier.",
+    "hp": "125",
+    "default_weapons": {
+        "primary": "Revolver",
+        "secundary": "Disguise Kit",
+        "melee": "Knife"
+    }
+},
+{
+    "id": "8",
+    "name": "Medic",
+    "description": "He is the most direct support in Team Fortress 2. The Medic heals teammates and helps them continue the battle without any breaks.",
+    "hp": "150",
+    "default_weapons": {
+        "primary": "Syringue Gun",
+        "secundary": "Medi Gun",
+        "melee": "Bonesaw"
+    }
+},
+{
+    "id": "9",
+    "name": "Sniper",
+    "description": "Use this guy to kill opponents from a safe distance. ",
+    "hp": "125",
+    "default_weapons": {
+        "primary": "Sniper Rifle",
+        "secundary": "Submachine Gun",
+        "melee": "Kukri"
+    }
+}
+]
