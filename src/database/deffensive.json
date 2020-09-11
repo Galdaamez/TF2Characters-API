@@ -1,0 +1,34 @@
+[{
+    "id": "4",
+    "name": "Demoman",
+    "description": "He creates powerful explosions which can strongly damage many opponents.",
+    "hp": "175",
+    "default_weapons": {
+        "primary": "Granade Launcher",
+        "secundary": "Stickybomb Launcher",
+        "melee": "Bottle"
+    }
+},
+{
+    "id": "5",
+    "name": "Engineer",
+    "description": "While playing TF2 as the Engineer, you rarely fight other characters directly. Use this class to create special buildings that automatically shoot at opponents, heal teammates, or work as teleports.",
+    "hp": "125",
+    "default_weapons": {
+        "primary": "Shotgun",
+        "secundary": "Pistol",
+        "melee": "Wrench"
+    }
+},
+{
+    "id": "6",
+    "name": "Heavy",
+    "description": "He is the biggest man in the game with the most dangerous weapon. His powerful advantage is a huge amount of health. His weakness is very, very slow movements - especially when the Heavy is firing his primary gun.",
+    "hp": "300",
+    "default_weapons": {
+        "primary": "Minigun",
+        "secundary": "Shotgun",
+        "melee": "Fists"
+    }
+}
+]
