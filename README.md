@@ -10,4 +10,9 @@
 	Give Back a JSON File with information about deffensive TF2 Characters.
 - [/api/support](http://localhost:3000/api/offensive "/api/support")
 	Give Back a JSON File with information about support TF2 Characters.
-
+	
+##### Download Files
+- [/api/download/{class}](http://localhost:3000/api/offensive "/api/support")
+	- offensive: TF2-Offensive_Classes.json
+	- deffensive: TF2-Deffensive_Classes.json
+	- support: TF2-Support_Classes.json
