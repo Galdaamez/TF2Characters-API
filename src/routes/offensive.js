@@ -1,15 +1,15 @@
-const {Router} = require('express');
+const { Router} = require('express');
 const router = Router();
 
 const offensive = require('../database/offensive.json')
 
-router.get('/', (req, res)=>{
+router.get('/', (req, res) => {
     res.json({
-        response:{
+        response: {
             "code": "200",
-            "Text": "OK"
+            "text": "OK"
         },
-        data : offensive
+        data: offensive
     });
 })
 
