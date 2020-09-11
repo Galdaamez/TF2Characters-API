@@ -15,8 +15,15 @@ app.use(express.urlencoded({
 app.use(express.json());
 
 
-//Routes
-app.use('/api/offensive', require('./routes/offensive'))
+// Routes
+
+// Specific Classes
+app.use('/api/offensive', require('./routes/offensive'));
+app.use('/api/support', require('./routes/support'));
+app.use('/api/deffensive', require('./routes/deffensive'));
+
+// Download
+app.use('/api/download', require('./routes/download'));
 
 // Server Starting
 app.listen(app.get('port'), () => {
