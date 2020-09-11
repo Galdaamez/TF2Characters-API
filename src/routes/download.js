@@ -1,5 +1,4 @@
 const {Router} = require('express');
-const { route } = require('./deffensive');
 const router = Router();
 
 router.get('/offensive', (req, res)=>{
