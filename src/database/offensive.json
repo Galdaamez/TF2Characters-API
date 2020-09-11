@@ -1,0 +1,34 @@
+[{
+        "id": "1",
+        "name": "scout",
+        "description": "This guy combines a great advantage with a bitter weakness. While the TF2 Scout moves super fast, his health is very low.",
+        "hp": "125",
+        "default_weapons": {
+            "primary": "Scattergun",
+            "secundary": "Sistol",
+            "melee": "Bat"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Soldier",
+        "description": "Twith his rockets, the TF2 Soldier causes significant damage and allows teammates to take some territory under their control. He has a big storage of health and can play well, even in defense. He is the TF2 best class for beginners",
+        "hp": "200",
+        "default_weapons": {
+            "primary": "Rocket Launcher",
+            "secundary": "Shotgun",
+            "melee": "Shovel"
+        }
+    },
+    {
+        "id": "3",
+        "name": "Pyro",
+        "description": "The attacking style of this TF2 character is not so straightforward as the Soldier. The Pyro is the most effective in a short range, so he can be used to sneak into the area of enemies to burn them down.",
+        "hp": "175",
+        "default_weapons": {
+            "primary": "Homemade Flamethrower",
+            "secundary": "Shotgun",
+            "melee": "Fire Axe"
+        }
+    }
+]
