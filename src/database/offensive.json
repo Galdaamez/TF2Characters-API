@@ -5,7 +5,7 @@
         "hp": "125",
         "default_weapons": {
             "primary": "Scattergun",
-            "secundary": "Sistol",
+            "secundary": "Pistol",
             "melee": "Bat"
         }
     },
